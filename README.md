@@ -2,7 +2,7 @@
 
 👋 Welcome to Hamada's GitHub Profile! 👨‍💻
 
-I'm Mohammed, a .Net Developer passionate about web development, Here, you'll find a glimpse into my coding journey, projects, and interests.
+I'm Mohammed, a Full Stack Developer passionate about web development, Here, you'll find a glimpse into my coding journey, projects, and interests.
 
 ## 🚀 About Me
 
@@ -15,9 +15,14 @@ I'm currently learning ASP Core to leave my touch in the web. Stay tuned for upd
 
 ## 🔧 Skills & Tools
 
+-PHP
+-Laravel
 - .Net
 - C#
-- SQL Server
+- SQL
+- Javascript
+- HTML5
+- CSS3
 
 ## 📫 Let's Connect
 
